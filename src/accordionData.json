@@ -1,0 +1,44 @@
+{
+  "points": [
+    {
+      "heading": "JavaScript overview",
+      "summary": "JavaScript is a high-level, dynamic, and interpreted programming language used to create interactive and dynamic websites."
+    },
+    {
+      "heading": "Origins of JavaScript",
+      "summary": "JavaScript was created by Brendan Eich in just 10 days in May 1995 while he was working at Netscape Communications Corporation."
+    },
+    {
+      "heading": "Abbreviation",
+      "summary": "JavaScript is often abbreviated as 'JS'."
+    },
+    {
+      "heading": "Usage",
+      "summary": "JavaScript can be used for both front-end and back-end development, as well as for building mobile applications."
+    },
+    {
+      "heading": "Core technologies",
+      "summary": "JavaScript is one of the three core technologies used for web development, along with HTML and CSS."
+    },
+    {
+      "heading": "Object-oriented and functional language",
+      "summary": "JavaScript is an object-oriented and functional programming language."
+    },
+    {
+      "heading": "Manipulating the DOM",
+      "summary": "One of the key features of JavaScript is its ability to manipulate the Document Object Model (DOM) of a web page."
+    },
+    {
+      "heading": "Vast ecosystem of libraries and frameworks",
+      "summary": "JavaScript has a vast ecosystem of libraries and frameworks, such as React, Angular, Vue.js, Node.js, and Express.js."
+    },
+    {
+      "heading": "Constantly evolving",
+      "summary": "JavaScript is constantly evolving, with new features and improvements being added regularly."
+    },
+    {
+      "heading": "Latest version",
+      "summary": "The latest version of JavaScript is ECMAScript 2022, which includes features like enhanced modules and improved error handling."
+    }
+  ]
+}
